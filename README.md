@@ -1,6 +1,4 @@
 # Video-Effect
-=======================
- Demo project.
 
 ## Done ##
 * Effect transition with 2 videos
